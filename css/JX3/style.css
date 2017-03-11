@@ -1,0 +1,216 @@
+body{
+    margin: 12px;
+    padding: 0;
+    background-color: #3a3a3a;
+}
+li{
+    list-style: none;
+}
+a{
+    color: #3b3b3b;
+}
+p{
+    font-size: 15px;
+    text-align: left;
+    text-indent:2em;
+}
+h3{
+    margin: 0;
+}
+p{
+    margin: 0;
+}
+caption{
+    margin: 20px 0 0 0;
+}
+#no1{
+    text-align: center;
+    width: 100%;
+}
+
+.head{
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.menu{
+    display:inline-block;
+    width: 1042px;
+    height: 30px;
+    background-color: #fbffd1;
+
+}
+#table{
+    width:800px;
+    height: 30px;
+}
+
+.main{
+    position: relative;
+    width:1042px;
+    height: 450px;
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+.main2{
+    position: relative;
+    width:1042px;
+    height :500px;
+    background-color: #ebecf1;
+    margin: 0 auto
+}
+.main3{
+    position: relative;
+    width:1042px;
+    height :800px;
+    background-color: #2a231d;
+    margin: 0 auto;
+}
+
+
+.box1{
+    width: 100%;
+}
+
+.main_p1{
+    width: 50%;
+    position: relative;
+    left: 80px;
+    top: 50px;
+
+}
+#main_img{
+    position: absolute;
+    right: 30px;
+    top: 0;
+    text-align: right;
+    width: 50%;
+}
+#main_flash{
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    text-align: right;
+    width: 50%;
+}
+.main_p2{
+    width: 40%;
+    position: relative;
+    left: 30px;
+    top: 100px;
+
+}
+
+.box2{
+    width: 896px;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    margin: 0 0 0 -448px;
+}
+
+#table2{
+    text-align: center;
+    background-color: #2a231d;
+    color: #fdff95;
+    margin: 0;
+    padding: 0;
+}
+
+
+.table_skill{
+    text-align: left;
+
+    color: #fdff95;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+
+#icon1{
+    background: url("../../img/JX3/skill.png");
+    background-position: -4px -75px;
+    width: 47px;
+    height: 47px;
+    display: inline-block;
+}
+#icon2{
+    background: url("../../img/JX3/skill.png");
+    background-position: -56px -75px;
+    width: 47px;
+    height: 47px;
+    display: inline-block;
+}
+#icon3{
+    background: url("../../img/JX3/skill.png");
+    background-position: -108px -75px;
+    width: 47px;
+    height: 47px;
+    display: inline-block;
+}
+#icon4{
+    background: url("../../img/JX3/skill.png");
+    background-position: -159px -75px;
+    width: 47px;
+    height: 47px;
+    display: inline-block;
+}
+#icon5{
+    background: url("../../img/JX3/skill.png");
+    background-position: -212px -75px;
+    width: 47px;
+    height: 47px;
+    display: inline-block;
+}
+#icon6{
+     background: url("../../img/JX3/skill.png");
+     background-position: -264px -75px;
+     width: 47px;
+     height: 47px;
+     display: inline-block;
+ }
+
+#icon7{
+    background: url("../../img/JX3/skill.png");
+    background-position: -316px -4px;
+    width: 47px;
+    height: 47px;
+    display: inline-block;
+}
+#icon8{
+    background: url("../../img/JX3/skill.png");
+    background-position: -368px -4px;
+    width: 47px;
+    height: 47px;
+    display: inline-block;
+}
+#icon9{
+    background: url("../../img/JX3/skill.png");
+    background-position: -420px -4px;
+    width: 47px;
+    height: 47px;
+    display: inline-block;
+}
+#icon10{
+    background: url("../../img/JX3/skill.png");
+    background-position: -471px -4px;
+    width: 47px;
+    height: 47px;
+    display: inline-block;
+}
+#icon11{
+    background: url("../../img/JX3/skill.png");
+    background-position: -524px -4px;
+    width: 47px;
+    height: 47px;
+    display: inline-block;
+}
+#icon12{
+    background: url("../../img/JX3/skill.png");
+    background-position: -576px -4px;
+    width: 47px;
+    height: 47px;
+    display: inline-block;
+}
